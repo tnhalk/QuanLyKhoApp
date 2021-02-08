@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\GIT\QuanLyKhoApp\InventoryManagementUI\App.xaml
-11151548125
+3-1791676760
 
-61434861427
+13-495644125
 1231280378819
-MainWindow.xaml;
+Views\FirstChildView.xaml;Views\SecondChildView.xaml;Views\ShellView.xaml;
 
 True
 
