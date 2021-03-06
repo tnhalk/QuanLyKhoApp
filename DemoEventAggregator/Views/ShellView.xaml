@@ -3,11 +3,15 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:cal="http://www.caliburnproject.org"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+
         xmlns:local="clr-namespace:DemoEventAggregator.Views"
         mc:Ignorable="d"
         Title="ShellView" Height="450" Width="800">
     <Grid>
-        <Button x:Name="ChangeMessage" Content="Press Me" VerticalAlignment="Top" />
+        <Button Content="Press Me" VerticalAlignment="Top" cal:Message.Attach="[Event Click] = [Action ChangeMessage(2)]" />
+
         <TextBlock x:Name="Message" VerticalAlignment="Center" HorizontalAlignment="Center" />
     </Grid>
 </Window>

@@ -30,9 +30,9 @@ namespace DemoEventAggregator.ViewModels
             _pressCount = 0;
         }
 
-        public void ChangeMessage()
+        public void ChangeMessage(int incrementBy)
         {
-            _pressCount++;
+            _pressCount += incrementBy;
 
             Message = "Presses = " + _pressCount;
         }
