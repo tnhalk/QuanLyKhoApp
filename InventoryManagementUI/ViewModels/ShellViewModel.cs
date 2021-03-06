@@ -11,6 +11,7 @@ namespace InventoryManagementUI.ViewModels
     public class ShellViewModel : Conductor<object>
     {
         private string _firstName="tnhalk";
+        private string _lastName;
 
         public string FirstName
         {
@@ -25,7 +26,6 @@ namespace InventoryManagementUI.ViewModels
                 NotifyOfPropertyChange(() => FullName);
             }
         }
-        private string _lastName;
 
 
         public ShellViewModel()
@@ -89,6 +89,7 @@ namespace InventoryManagementUI.ViewModels
 
         public void ClearText(string firstName , string lastName)
         {
+            
             FirstName = "";
             LastName = "";
         }

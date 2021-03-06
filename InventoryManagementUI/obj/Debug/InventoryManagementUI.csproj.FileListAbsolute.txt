@@ -27,8 +27,8 @@ D:\GIT\QuanLyKhoApp\InventoryManagementUI\obj\Debug\InventoryManagementUI.csproj
 D:\GIT\QuanLyKhoApp\InventoryManagementUI\obj\Debug\InventoryManagementUI.csproj.CopyComplete
 D:\GIT\QuanLyKhoApp\InventoryManagementUI\obj\Debug\InventoryManagementUI.exe
 D:\GIT\QuanLyKhoApp\InventoryManagementUI\obj\Debug\InventoryManagementUI.pdb
-D:\GIT\QuanLyKhoApp\InventoryManagementUI\obj\Debug\InventoryManagementUI.csprojAssemblyReference.cache
 D:\GIT\QuanLyKhoApp\InventoryManagementUI\obj\Debug\Views\FirstChildView.g.cs
 D:\GIT\QuanLyKhoApp\InventoryManagementUI\obj\Debug\Views\SecondChildView.g.cs
 D:\GIT\QuanLyKhoApp\InventoryManagementUI\obj\Debug\Views\FirstChildView.baml
 D:\GIT\QuanLyKhoApp\InventoryManagementUI\obj\Debug\Views\SecondChildView.baml
+D:\GIT\QuanLyKhoApp\InventoryManagementUI\obj\Debug\InventoryManagementUI.csprojAssemblyReference.cache
